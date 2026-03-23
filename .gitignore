@@ -1,0 +1,9 @@
+node_modules/
+.next/
+venv/
+node_bin/
+.env
+__pycache__/
+*.pyc
+node.zip
+python-installer.exe
